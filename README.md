@@ -28,7 +28,11 @@ We introduce Lumina-DiMOO, an unified discrete diffusion model, which is designe
  <img src="./assets/qualitative.jpg" width="100%"/>
 </details>
 
-
+## 💬 Discussion
+<details open>
+  <summary>Qualitative Performance</summary>
+ <img src="./assets/wechat.jpg" width="100%"/>
+</details>
 
 ## 📖 BibTeX
 ```
