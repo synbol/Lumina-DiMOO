@@ -29,8 +29,9 @@ We introduce Lumina-DiMOO, an unified discrete diffusion model, which is designe
 </details>
 
 ## 💬 Discussion
+You can reach us with this WeChat QR code!
 <p align="center">
- <img src="./assets/wechat.jpg" width="45%"/>
+ <img src="./assets/wechat.jpg" width="35%"/>
  <br>
 </p>
 
