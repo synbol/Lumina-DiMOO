@@ -11,7 +11,7 @@
 </div>
 
 ## 📚 Introduction 
-We introduce a stand-alone, decoder-only autoregressive model, **trained from scratch**, that unifies a broad spectrum of image generation tasks, including **text-to-image generation, image pair generation, subject-driven generation, multi-turn image editing, controllable generation, and dense prediction**.
+We introduce **Lumina-DiMOO**, an unified discrete diffusion model, which is designed to perform both **multimodal generation and understanding tasks**. Additionally, it is capable of handling a variety of other applications, including **image editing, subject-driven generation, and controllable synthesis, etc**.
 
 ## 🔥 News
 **[2025-07-25]** 🎉🎉🎉 Lumina-DiMOO’s repository has been built! 🎉🎉🎉
