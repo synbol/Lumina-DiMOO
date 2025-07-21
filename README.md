@@ -14,13 +14,12 @@
 We introduce a stand-alone, decoder-only autoregressive model, **trained from scratch**, that unifies a broad spectrum of image generation tasks, including **text-to-image generation, image pair generation, subject-driven generation, multi-turn image editing, controllable generation, and dense prediction**.
 
 ## 🔥 News
-**[2025-07-25]** 🎉🎉🎉 Lumina-DiMOO 2.0 is released! 🎉🎉🎉
+**[2025-07-25]** 🎉🎉🎉 Lumina-DiMOO’s repository has been built! 🎉🎉🎉
 
 
 ## 📝 Open-source Plan
- - [x] Text-to-Image / Image Pair Generation Inference & Checkpoints
- - [x] Finetuning code
- - [ ] All-in-One Inference & Checkpoints
+ - [ ] Inference Code & Checkpoints
+ - [ ] Training Code 
  - [ ] Technical Report
 
 ## 📽️ Demo Examples
