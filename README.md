@@ -11,7 +11,7 @@
 </div>
 
 ## 📚 Introduction 
-We introduce **Lumina-DiMOO**, an unified discrete diffusion model, which is designed to perform both **multimodal generation and understanding tasks**. Additionally, it is capable of handling a variety of other applications, including **image editing, subject-driven generation, and controllable synthesis, etc**.
+**We introduce Lumina-DiMOO, an unified discrete diffusion model, which is designed to perform both multimodal generation and understanding tasks. Additionally, it is capable of handling a variety of other applications, including image editing, subject-driven generation, and controllable synthesis, etc.**
 
 ## 🔥 News
 **[2025-07-25]** 🎉🎉🎉 Lumina-DiMOO’s repository has been built! 🎉🎉🎉
