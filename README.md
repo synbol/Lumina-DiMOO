@@ -30,7 +30,7 @@ We introduce Lumina-DiMOO, an unified discrete diffusion model, which is designe
 
 ## 💬 Discussion
 <p align="center">
- <img src="./assets/wechat.jpg" width="15%"/>
+ <img src="./assets/wechat.jpg" width="45%"/>
  <br>
 </p>
 
