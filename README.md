@@ -33,11 +33,11 @@ We introduce a stand-alone, decoder-only autoregressive model, **trained from sc
 
 ## 📖 BibTeX
 ```
-@misc{lumina-mgpt-2.0,
-      title={Lumina-mGPT 2.0: Stand-alone Autoregressive Image Modeling},
+@misc{lumina-dimoo,
+      title={Lumina-DiMOO: A Unified Masked Diffusion Model for Multi-Modal Generation and Understanding},
       author={Alpha VLLM Team},
       year={2025},
-      url={https://github.com/Alpha-VLLM/Lumina-mGPT-2.0},
+      url={https://github.com/Alpha-VLLM/Lumina-DiMOO},
 }
 ```
 
