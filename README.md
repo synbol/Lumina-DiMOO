@@ -1,6 +1,5 @@
 <p align="center">
- <img src="./assets/Lumina-DiMOO.png" width="25%"/>
- <br>
+ <img src="./assets/Lumina-DiMOO.png" width="20%"/>
 </p>
 
 <div align="center">
