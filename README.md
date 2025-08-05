@@ -1,14 +1,11 @@
 <p align="center">
  <img src="./assets/Lumina-DiMOO.png" width="20%"/>
- 
- <h1> Lumina-DiMOO: A Unified Discrete Diffusion Model for Multi-Modal Generation and Understanding </h1>
- 
- <b>¹Shanghai AI Laboratory, &nbsp;  ²Shanghai Jiao Tong University, &nbsp; ³Shanghai Innovation Institute</b>
-
 </p>
 
 <div align="center">
-
+ <h1> Lumina-DiMOO: A Unified Discrete Diffusion Model for Multi-Modal Generation and Understanding </h1>
+ 
+ <b>¹Shanghai AI Laboratory, &nbsp;  ²Shanghai Jiao Tong University, &nbsp; ³Shanghai Innovation Institute</b>
 </div>
 
 ## 📚 Introduction 
