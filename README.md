@@ -19,7 +19,7 @@ We introduce Lumina-DiMOO, an unified discrete diffusion model, which is designe
 
 ## 📝 Open-source Plan
  - [ ] Model Checkpoints
- - [ ] Multi-Modal Generation Inference Code (text-to-image, editing, subject driven, etc.)
+ - [ ] Multi-Modal Generation Inference Code (text-to-image, editing, subject driven, multi-view generation, etc.)
  - [ ] Multi-Modal Understanding Inference Code
  - [ ] Training Code 
  - [ ] Technical Report
