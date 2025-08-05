@@ -1,5 +1,5 @@
 <p align="center">
- <img src="./assets/lumina-mgpt-2.0.png" width="15%"/>
+ <img src="./assets/lumina-dimoo.pdf" width="15%"/>
  <br>
 </p>
 
